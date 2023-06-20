@@ -9,6 +9,7 @@ In this repository, I'll explore various ways to apply the kaizen philosophy to 
 - [Getting Started](#getting-started)
 - [Examples](#examples)
 - [Contributing](#contributing)
+- [LICENSE](#license)
 
 ## Getting Started
 
@@ -35,3 +36,7 @@ I'll also share my reflections on what worked well, what didn't work, and what I
 ## Contributing
 
 This repository is for my personal documentation and self-improvement journey, so contributions are not expected. However, if you have a suggestion or encouragement, feel free to submit an issue or message me.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
