@@ -1,5 +1,3 @@
-Great, here's an updated README.md file that reflects that:
-
 # Kaizen: Documenting My Self-Improvement Journey
 
 This repository is dedicated to documenting my personal journey of self-improvement using the kaizen philosophy of continuous improvement. The idea behind kaizen is to make small, incremental improvements every day in order to achieve significant results over time.
