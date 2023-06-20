@@ -9,7 +9,7 @@ In this repository, I'll explore various ways to apply the kaizen philosophy to 
 - [Getting Started](#getting-started)
 - [Examples](#examples)
 - [Contributing](#contributing)
-- [LICENSE](#license)
+- [License](#license)
 
 ## Getting Started
 
