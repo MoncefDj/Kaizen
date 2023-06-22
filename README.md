@@ -6,10 +6,12 @@ In this repository, I'll explore various ways to apply the kaizen philosophy to 
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+- [Kaizen: Documenting My Self-Improvement Journey](#kaizen-documenting-my-self-improvement-journey)
+  - [Table of Contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+  - [Examples](#examples)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Getting Started
 
