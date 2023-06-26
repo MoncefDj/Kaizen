@@ -1,5 +1,19 @@
 # Data Science base words
 
+## Table of content
+
+- [Data Science base words](#data-science-base-words)
+  - [Table of content](#table-of-content)
+  - [Analysis vs Analytics](#analysis-vs-analytics)
+    - [Example](#example)
+  - [Business Intelligence](#business-intelligence)
+  - [Machine Learning](#machine-learning)
+  - [observation](#observation)
+  - [quantification](#quantification)
+  - [measure](#measure)
+  - [metric](#metric)
+  - [KPI (key performance indicator)](#kpi-key-performance-indicator)
+
 ## Analysis vs Analytics
 
 Analysis involves examining something that has already happened, often for the purpose of understanding how and why it occurred. Qualitative analysis relies on subjective methods (those that rely on personal interpretation and judgment, rather than objective data or measurements.) such as observation and expert judgment to analyze data, while quantitative analysis uses statistical and mathematical methods to analyze numerical data.
@@ -19,3 +33,23 @@ Business Intelligence is the process of analyzing and reporting historical busin
 ## Machine Learning
 
 Machine Learning is the ability of machines to predict outcomes without being explicitly programmed.
+
+## observation
+
+In business intelligence, an observation refers to a single piece of data or a single instance of an event that is being analyzed.
+
+## quantification
+
+quantification is the process of representing observations as numbers.
+
+## measure
+
+a measure is the accumulation of observations to show some information.
+
+## metric
+
+metric = measure + business meaning.
+
+## KPI (key performance indicator)
+
+KPI = metric + business objective.
