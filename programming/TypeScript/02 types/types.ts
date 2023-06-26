@@ -44,9 +44,13 @@ function stringPlusNumber(
       break;
   }
   if (toDisplay) {
-    console.log(stringNumber + " + " + number + " = " + result);
+    console.log(`${stringNumber} + ${number}  =  ${result}`);
   }
   return result;
 }
 
-stringPlusNumber("6", 4);
+myNumber = stringPlusNumber("6", 4);
+
+console.log(`myNumber = stringPlusNumber("6", 4); => ${myNumber}`);
+
+export {};
