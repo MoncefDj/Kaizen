@@ -1,3 +1,5 @@
+// primitive types
+
 let myNumber: number;
 
 function stringPlusNumber(
@@ -52,5 +54,49 @@ function stringPlusNumber(
 myNumber = stringPlusNumber("6", 4);
 
 console.log(`myNumber = stringPlusNumber("6", 4); => ${myNumber}`);
+
+// created types
+
+type User = {
+  readonly _id: string;
+  name: string;
+  age: number;
+  isMale: boolean;
+};
+
+type CreditCard = {
+  bank: string;
+  number: number;
+  isActive: boolean;
+};
+
+type RichUser = User &
+  CreditCard & {
+    isSmart: boolean;
+  };
+
+function createRichUser(
+  user: User,
+  creditCard: CreditCard,
+  isSmart: boolean
+): RichUser {
+  return {
+    _id: user._id,
+    age: user.age,
+    bank: creditCard.bank,
+    isActive: creditCard.isActive,
+    isMale: user.isMale,
+    isSmart: isSmart,
+    name: user.name,
+    number: creditCard.number,
+  };
+}
+
+let myUser: User = { _id: "_id", name: "myUser", age: 18, isMale: true };
+let myUserCreditCard: CreditCard = {
+  bank: "bank",
+  isActive: true,
+  number: 999999999999999999,
+};
 
 export {};

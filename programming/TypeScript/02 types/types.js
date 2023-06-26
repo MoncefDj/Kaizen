@@ -1,4 +1,5 @@
 "use strict";
+// primitive types
 Object.defineProperty(exports, "__esModule", { value: true });
 var myNumber;
 function stringPlusNumber(stringNumber /*<- 0 is the default value*/, number, toDisplay) {
@@ -49,3 +50,21 @@ function stringPlusNumber(stringNumber /*<- 0 is the default value*/, number, to
 }
 myNumber = stringPlusNumber("6", 4);
 console.log("myNumber = stringPlusNumber(\"6\", 4); => ".concat(myNumber));
+function createRichUser(user, creditCard, isSmart) {
+    return {
+        _id: user._id,
+        age: user.age,
+        bank: creditCard.bank,
+        isActive: creditCard.isActive,
+        isMale: user.isMale,
+        isSmart: isSmart,
+        name: user.name,
+        number: creditCard.number,
+    };
+}
+var myUser = { _id: "_id", name: "myUser", age: 18, isMale: true };
+var myUserCreditCard = {
+    bank: "bank",
+    isActive: true,
+    number: 999999999999999999,
+};
