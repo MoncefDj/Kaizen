@@ -8,10 +8,10 @@
     - [Example](#example)
   - [Business Intelligence](#business-intelligence)
   - [Machine Learning](#machine-learning)
-  - [observation](#observation)
-  - [quantification](#quantification)
-  - [measure](#measure)
-  - [metric](#metric)
+  - [Observation](#observation)
+  - [Quantification](#quantification)
+  - [Measure](#measure)
+  - [Metric](#metric)
   - [KPI (key performance indicator)](#kpi-key-performance-indicator)
 
 ## Analysis vs Analytics
@@ -34,19 +34,19 @@ Business Intelligence is the process of analyzing and reporting historical busin
 
 Machine Learning is the ability of machines to predict outcomes without being explicitly programmed.
 
-## observation
+## Observation
 
 In business intelligence, an observation refers to a single piece of data or a single instance of an event that is being analyzed.
 
-## quantification
+## Quantification
 
 quantification is the process of representing observations as numbers.
 
-## measure
+## Measure
 
 a measure is the accumulation of observations to show some information.
 
-## metric
+## Metric
 
 metric = measure + business meaning.
 
