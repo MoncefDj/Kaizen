@@ -1,4 +1,4 @@
-# Vite and ReactJS Components
+# Vite
 
 To create a ReactJS app with Vite, follow these steps:
 
