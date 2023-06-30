@@ -5,7 +5,7 @@ export const Content = () => {
   };
 
   return (
-    <main>
+    <main className="flex items-center justify-center h-full">
       <h2>Welcome {randomName()}!</h2>
     </main>
   );
