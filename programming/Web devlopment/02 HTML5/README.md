@@ -4,6 +4,8 @@ HTML5 (Hypertext Markup Language, version 5) is the latest version of the markup
 
 ## Cheat sheet
 
-![html5 tag cheat sheet image](html5-tag-cheat-sheet-2019.svg)
+![html5 tag cheat sheet image](HTML-CHEAT-SHEET.png)
 
-### [PDF document](html5-tag-cheat-sheet-2019.pdf)
+### [HTML Cheat Sheet PDF](WSU-HTML-Cheat-Sheet.pdf.pdf)
+
+### [html5 tag cheat sheet PDF](html5-tag-cheat-sheet-2019.pdf)
