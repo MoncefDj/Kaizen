@@ -30,6 +30,16 @@
     - [Two variables Visualization techniques](#two-variables-visualization-techniques)
       - [Cross table](#cross-table)
       - [Scatter plot](#scatter-plot)
+  - [Measures of central tendency](#measures-of-central-tendency)
+    - [Mean](#mean)
+    - [Median](#median)
+    - [Mod](#mod)
+  - [Measures of asymmetry](#measures-of-asymmetry)
+    - [Skewness](#skewness)
+  - [Measures of variability](#measures-of-variability)
+    - [Variance](#variance)
+    - [standard deviation](#standard-deviation)
+    - [Coefficient of variation](#coefficient-of-variation)
 
 ## Population (N)
 
@@ -126,3 +136,39 @@ Ratio data consists of numeric values that have equal intervals between them and
 #### Scatter plot
 
 ![Scatter plot image](<Photos/Scatter plot.png>)
+
+## Measures of central tendency
+
+### Mean
+
+![how do we find the mean](<Photos/how do we find the mean.png>)
+
+### Median
+
+the median is the number at the position (n+1)/2 in the ordered list.
+
+### Mod
+
+the mod is the value that occurs most often
+
+## Measures of asymmetry
+
+### Skewness
+
+![skewness](Photos/skewness.png)
+
+![skewness meaning](<Photos/skewness meaning.png>)
+
+## Measures of variability
+
+### Variance
+
+![Variance](Photos/Variance.png)
+
+### standard deviation
+
+![standard deviation](<Photos/standard deviation.png>)
+
+### Coefficient of variation
+
+![Coefficient of variation](<Photos/Coefficient of variation.png>)
