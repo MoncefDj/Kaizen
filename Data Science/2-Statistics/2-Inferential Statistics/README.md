@@ -23,4 +23,4 @@
 
 ## Standard error
 
-![Standard error ](<Photos/Standard error.png>)
+![Standard error](<Photos/Standard error.png>)
