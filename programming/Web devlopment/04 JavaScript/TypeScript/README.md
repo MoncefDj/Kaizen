@@ -38,7 +38,7 @@ npm install typescript --save-dev
 ### Initialize project
 
 ```bash
-npm init -y  # Generate package.json
+npm init -y # Generate package.json
 tsc --init # Create tsconfig.json
 ```
 
