@@ -39,12 +39,6 @@ npm install typescript --save-dev
 
 ```bash
 npm init -y  # Generate package.json
-npm install typescript --save-dev # Install TS locally
-```
-
-OR
-
-```bash
 tsc --init # Create tsconfig.json
 # OR
 npx tsc --init
