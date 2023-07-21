@@ -40,8 +40,6 @@ npm install typescript --save-dev
 ```bash
 npm init -y  # Generate package.json
 tsc --init # Create tsconfig.json
-# OR
-npx tsc --init
 ```
 
 `tsconfig.json` will be created with default options.
