@@ -8,8 +8,8 @@ TypeScript is a strongly typed superset of JavaScript that compiles to plain Jav
   - [Table of contents](#table-of-contents)
   - [Installation \& Setup](#installation--setup)
     - [Install TypeScript globally](#install-typescript-globally)
-    - [Initialize project](#initialize-project)
     - [Install TypeScript locally](#install-typescript-locally)
+    - [Initialize project](#initialize-project)
     - [Configure TS](#configure-ts)
     - [Compile](#compile)
   - [Basic Types](#basic-types)
@@ -29,6 +29,12 @@ npm install -g typescript
 tsc --version
 ```
 
+### Install TypeScript locally
+
+```bash
+npm install typescript --save-dev
+```
+
 ### Initialize project
 
 ```bash
@@ -45,12 +51,6 @@ npx tsc --init
 ```
 
 `tsconfig.json` will be created with default options.
-
-### Install TypeScript locally
-
-```bash
-npm install typescript --save-dev
-```
 
 ### Configure TS
 
