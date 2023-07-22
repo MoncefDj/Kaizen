@@ -74,8 +74,11 @@ tsc --watch # Watch for changes
 let id: number = 5;
 let company: string = "Traversy Media";
 let isPublished: boolean = true;
+let unionTypes: number | string | boolean; // can = 1962 or = "random string or = false"
+let anything: any; // can = anything"
 
 let ids: number[] = [1, 2, 3];
+let unionTypesArr: (number | string | boolean)[1, "hello", true, "hi", 2];
 let arr: any[] = [1, "Hello", true];
 
 let tuple: [number, string, boolean] = [1, "hello", true];
@@ -85,6 +88,17 @@ enum Color {
   Blue,
 }
 let c: Color = Color.Blue;
+
+type myType {
+  string: string,
+  number: number,
+  boolean: boolean
+}
+let myVar: myType = {
+  string: "random string",
+  number: 1962,
+  boolean?: false //? means that the property is optional
+}
 ```
 
 ## Functions
