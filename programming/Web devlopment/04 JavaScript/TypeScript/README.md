@@ -74,7 +74,7 @@ tsc --watch # Watch for changes
 let id: number = 5;
 let company: string = "Traversy Media";
 let isPublished: boolean = true;
-let unionTypes: number | string | boolean; // can = 1962 or = "random string or = false"
+let unionTypes: number | string | boolean; // can = 1962 or = "random string" or = false
 let anything: any; // can = anything"
 
 let ids: number[] = [1, 2, 3];
@@ -99,6 +99,8 @@ let myVar: myType = {
   number: 1962,
   boolean?: false //? means that the property is optional
 }
+
+let var: "first" | "second" | "third" = "first";
 ```
 
 ## Functions
