@@ -78,7 +78,7 @@ let unionTypes: number | string | boolean; // can = 1962 or = "random string" or
 let anything: any; // can = anything"
 
 let ids: number[] = [1, 2, 3];
-let unionTypesArr: (number | string | boolean)[1, "hello", true, "hi", 2];
+let unionTypesArr: (number | string | boolean)[] = [1, "hello", true, "hi", 2];
 let arr: any[] = [1, "Hello", true];
 
 let tuple: [number, string, boolean] = [1, "hello", true];
@@ -89,18 +89,20 @@ enum Color {
 }
 let c: Color = Color.Blue;
 
-type myType {
-  string: string,
-  number: number,
-  boolean: boolean
-}
+type alias = boolean;
+
+type myType = {
+  string: string;
+  number: number;
+  boolean?: alias; //? means that the property is optional
+};
 let myVar: myType = {
   string: "random string",
   number: 1962,
-  boolean?: false //? means that the property is optional
-}
+  boolean: false,
+};
 
-let var: "first" | "second" | "third" = "first";
+let my2ndVar: "first" | "second" | "third" = "first";
 ```
 
 ## Functions
@@ -140,7 +142,24 @@ class User {
   }
 }
 
-let user = new User("John");
+class proUser extends User {
+  static proUsersNumber: number = 0;
+
+  constructor(
+    name: string,
+    private readonly isPro: boolean /* private, protected, public */
+  ) {
+    super(name);
+    this.isPro = isPro;
+    proUser.proUsersNumber++;
+  }
+
+  public get IsPro(): boolean {
+    return this.isPro;
+  }
+}
+
+let user: proUser = new proUser("John", true);
 ```
 
 ## Generics
