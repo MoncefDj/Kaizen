@@ -17,6 +17,9 @@ TypeScript is a strongly typed superset of JavaScript that compiles to plain Jav
   - [Interfaces](#interfaces)
   - [Classes](#classes)
   - [Generics](#generics)
+  - [Index Signatures](#index-signatures)
+  - [keyof Assertions](#keyof-assertions)
+  - [Utility Types](#utility-types)
   - [Namespaces](#namespaces)
 
 ## Installation & Setup
@@ -103,6 +106,12 @@ let myVar: myType = {
 };
 
 let my2ndVar: "first" | "second" | "third" = "first";
+
+let numVariable: number = 10;
+let anyVariable: any = numVariable as any; // casting number to any type
+
+let strVariable: string = "Hello, World!";
+let anyVariable2: any = <any>strVariable; // casting string to any type
 ```
 
 ## Functions
@@ -165,12 +174,150 @@ let user: proUser = new proUser("John", true);
 ## Generics
 
 ```ts
+interface isTruthy<T> {
+  arg: T;
+  is: boolean;
+}
+
+class myClass<T> {}
+
 function getArray<T>(items: T[]): T[] {
   return new Array().concat(items);
 }
 
 let numArray = getArray<number>([1, 2, 3]);
 let strArray = getArray<string>(["a", "b", "c"]);
+```
+
+## Index Signatures
+
+```ts
+interface MyInterface {
+  [key: string]: number;
+}
+
+let myObject: MyInterface = {
+  age: 30,
+  salary: 50000,
+  experience: 5,
+};
+
+console.log(myObject["age"]); // Output: 30
+
+interface MyInterface2 {
+  [key: number]: string;
+}
+
+let myObject2: MyInterface2 = {
+  0: "Hello",
+  1: "World",
+  2: "!",
+};
+
+console.log(myObject2[1]); // Output: "World"
+```
+
+## keyof Assertions
+
+```ts
+interface Person {
+  name: string;
+  age: number;
+  location: string;
+}
+
+function getProperty<T, K extends keyof T>(obj: T, key: K) {
+  return obj[key];
+}
+
+let person: Person = {
+  name: "John",
+  age: 30,
+  location: "New York",
+};
+
+console.log(getProperty(person, "name")); // Output: "John"
+console.log(getProperty(person, "age")); // Output: 30
+console.log(getProperty(person, "location")); // Output: "New York"
+```
+
+## Utility Types
+
+```ts
+// Partial: make all properties of a type optional
+interface User {
+  id: number;
+  name: string;
+  age: number;
+}
+
+const partialUser: Partial<User> = {
+  // all properties are now optional
+  id: 1,
+  name: "John",
+};
+
+// Required: make all properties of a type required
+interface User2 {
+  id?: number;
+  name?: string;
+  age?: number;
+}
+
+const requiredUser: Required<User2> = {
+  // all properties are now required
+  id: 1,
+  name: "John",
+  age: 30,
+};
+
+// Pick: select a subset of properties from a type
+interface User3 {
+  id: number;
+  name: string;
+  age: number;
+}
+
+const pickedUser: Pick<User3, "id" | "name"> = {
+  // only "id" and "name" properties are selected
+  id: 1,
+  name: "John",
+};
+
+// Omit: remove a subset of properties from a type
+interface User4 {
+  id: number;
+  name: string;
+  age: number;
+}
+
+const omittedUser: Omit<User4, "age"> = {
+  // "age" property is removed
+  id: 1,
+  name: "John",
+};
+
+// Exclude: exclude a union of types from another type
+type MyType = string | number | boolean;
+
+const excludedType: Exclude<MyType, boolean> = "hello"; // boolean type is excluded
+
+// Extract: extract a union of types from another type
+type MyType2 = string | number | boolean;
+
+const extractedType: Extract<MyType2, boolean | number> = true; // boolean and number types are extracted
+
+// NonNullable: remove null and undefined from a type
+type MyType3 = string | null | number | undefined;
+
+const nonNullableType: NonNullable<MyType3> = "hello"; // null and undefined are removed
+
+// ReturnType: get the return type of a function
+function myFunction() {
+  return true;
+}
+
+type MyReturnType = ReturnType<typeof myFunction>; // MyReturnType is boolean
 ```
 
 ## Namespaces
