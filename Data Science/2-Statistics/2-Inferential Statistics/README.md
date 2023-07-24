@@ -16,6 +16,9 @@
   - [Degree of freedom](#degree-of-freedom)
   - [T-Critical value](#t-critical-value)
   - [Margin of error](#margin-of-error)
+  - [Confidence interval for difference of two means, dependent samples](#confidence-interval-for-difference-of-two-means-dependent-samples)
+  - [Confidence interval for the difference of two means. Independent samples, variance known](#confidence-interval-for-the-difference-of-two-means-independent-samples-variance-known)
+  - [Confidence interval for difference of two means; independent samples, variances unknown but assumed to be equal](#confidence-interval-for-difference-of-two-means-independent-samples-variances-unknown-but-assumed-to-be-equal)
 
 ## Normal Distribution
 
@@ -67,6 +70,8 @@ It is a type of normal distribution used for smaller sample sizes, where the var
 
 ![Degree of freedom](<Photos/degree of freedom.png>)
 
+![how to calculate the degree of freedom](<Photos/how to calculate the degree of freedom.png>)
+
 ## T-Critical value
 
 ![T-critical value](<Photos/T-critical value.png>)
@@ -74,3 +79,17 @@ It is a type of normal distribution used for smaller sample sizes, where the var
 ## Margin of error
 
 ![Margin of error](<Photos/margin of error.png>)
+
+## Confidence interval for difference of two means, dependent samples
+
+![Confidence interval for difference of two means, dependent samples](<Photos/Confidence interval for difference of two means, dependent samples.png>)
+
+## Confidence interval for the difference of two means. Independent samples, variance known
+
+![Confidence interval for the difference of two means. Independent samples, variance known](<Photos/Confidence interval for the difference of two means. Independent samples, variance known.png>)
+
+## Confidence interval for difference of two means; independent samples, variances unknown but assumed to be equal
+
+![pooled variance](<Photos/pooled variance.png>)
+
+![Confidence interval for difference of two means; independent samples, variances unknown but assumed to be equal](<Photos/independent samples, variances unknown but assumed to be equal.png>)
