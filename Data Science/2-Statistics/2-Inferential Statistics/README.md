@@ -20,8 +20,6 @@
   - [Confidence Interval for Two Independent Mean Differences (Variance Known)](#confidence-interval-for-two-independent-mean-differences-variance-known)
   - [Confidence Interval for Two Independent Mean Differences (Variance Unknown)](#confidence-interval-for-two-independent-mean-differences-variance-unknown)
 
-Okay, here is the original markdown with some improvements:
-
 ## Normal Distribution
 
 The normal distribution is a continuous probability distribution that is symmetrical about the mean, showing that data near the mean are more frequent in occurrence than data far from the mean.
@@ -115,5 +113,3 @@ Calculates a confidence interval for the difference between two means in an inde
 ![pooled variance](<Photos/pooled variance.png>)
 
 ![Confidence interval for difference of two means; independent samples, variances unknown but assumed to be equal](<Photos/Confidence interval for difference of two means; independent samples, variances unknown but assumed to be equal.png>)
-
-Let me know if you would like me to clarify or expand on any part of the inferential statistics overview.
