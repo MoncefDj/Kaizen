@@ -112,4 +112,4 @@ Calculates a confidence interval for the difference between two means in an inde
 
 ![pooled variance](<Photos/pooled variance.png>)
 
-![Confidence interval for difference of two means; independent samples, variances unknown but assumed to be equal](<Photos/Confidence interval for difference of two means; independent samples, variances unknown but assumed to be equal.png>)
+![Confidence interval for difference of two means; independent samples, variances unknown but assumed to be equal](<Photos/independent samples, variances unknown but assumed to be equal.png>)
