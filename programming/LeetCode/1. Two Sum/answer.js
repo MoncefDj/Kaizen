@@ -13,13 +13,12 @@ function twoSum(nums, target) {
     return [];
 }
 function arrayComparison(arr1, arr2) {
-    if (arr1.length > arr2.length) {
+    if (arr1.length === arr2.length) {
         return (arr1.filter((element) => arr2.includes(element)).length ===
             arr1.length);
     }
     else {
-        return (arr2.filter((element) => arr1.includes(element)).length ===
-            arr2.length);
+        return false;
     }
 }
 // testing

@@ -19,16 +19,13 @@ function twoSum(nums: number[], target: number): number[] {
 }
 
 function arrayComparison(arr1: any[], arr2: any[]): boolean {
-  if (arr1.length > arr2.length) {
+  if (arr1.length === arr2.length) {
     return (
       arr1.filter((element: any) => arr2.includes(element)).length ===
       arr1.length
     );
   } else {
-    return (
-      arr2.filter((element: any) => arr1.includes(element)).length ===
-      arr2.length
-    );
+    return false;
   }
 }
 
