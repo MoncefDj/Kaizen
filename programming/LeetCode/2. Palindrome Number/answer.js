@@ -1,7 +1,10 @@
 "use strict";
 function isPalindrome(x) {
-    return x === reverseNumber(x);
-    function reverseNumber(number) {
+    return x === reversePositiveNumber(x);
+    function reversePositiveNumber(number) {
+        if (number < 0) {
+            return NaN;
+        }
         let numberCopy = number;
         let reversedNumber = 0;
         do {

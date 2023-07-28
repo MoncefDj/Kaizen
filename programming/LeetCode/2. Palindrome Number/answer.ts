@@ -1,7 +1,11 @@
 function isPalindrome(x: number): boolean {
-  return x === reverseNumber(x);
+  return x === reversePositiveNumber(x);
 
-  function reverseNumber(number: number): number {
+  function reversePositiveNumber(number: number): number {
+    if (number < 0) {
+      return NaN;
+    }
+
     let numberCopy: number = number;
     let reversedNumber: number = 0;
 
