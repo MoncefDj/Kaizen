@@ -23,7 +23,7 @@ function arrayComparison(arr1, arr2) {
 }
 // testing
 function testTwoSum(example) {
-    if (arrayComparison(twoSum(example.Nums, example.Target), example.ExpectedValue)) {
+    if (arrayComparison(twoSum(example.nums, example.target), example.expectedValue)) {
         console.log("passed!");
     }
     else {
@@ -31,22 +31,22 @@ function testTwoSum(example) {
     }
 }
 class example {
-    constructor(nums, target, expectedValue) {
-        this.nums = nums;
-        this.target = target;
-        this.expectedValue = expectedValue;
-        this.nums = nums;
-        this.target = target;
-        this.expectedValue = expectedValue;
+    constructor(_nums, _target, _expectedValue) {
+        this._nums = _nums;
+        this._target = _target;
+        this._expectedValue = _expectedValue;
+        this._nums = _nums;
+        this._target = _target;
+        this._expectedValue = _expectedValue;
     }
-    get Nums() {
-        return this.nums;
+    get nums() {
+        return this._nums;
     }
-    get Target() {
-        return this.target;
+    get target() {
+        return this._target;
     }
-    get ExpectedValue() {
-        return this.expectedValue;
+    get expectedValue() {
+        return this._expectedValue;
     }
 }
 let example1 = new example([2, 7, 11, 15], 9, [0, 1]);

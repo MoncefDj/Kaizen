@@ -33,7 +33,7 @@ function arrayComparison(arr1: any[], arr2: any[]): boolean {
 
 function testTwoSum(example: example): void {
   if (
-    arrayComparison(twoSum(example.Nums, example.Target), example.ExpectedValue)
+    arrayComparison(twoSum(example.nums, example.target), example.expectedValue)
   ) {
     console.log("passed!");
   } else {
@@ -43,25 +43,25 @@ function testTwoSum(example: example): void {
 
 class example {
   constructor(
-    private nums: number[],
-    private target: number,
-    private expectedValue: number[]
+    private _nums: number[],
+    private _target: number,
+    private _expectedValue: number[]
   ) {
-    this.nums = nums;
-    this.target = target;
-    this.expectedValue = expectedValue;
+    this._nums = _nums;
+    this._target = _target;
+    this._expectedValue = _expectedValue;
   }
 
-  public get Nums(): number[] {
-    return this.nums;
+  public get nums(): number[] {
+    return this._nums;
   }
 
-  public get Target(): number {
-    return this.target;
+  public get target(): number {
+    return this._target;
   }
 
-  public get ExpectedValue(): number[] {
-    return this.expectedValue;
+  public get expectedValue(): number[] {
+    return this._expectedValue;
   }
 }
 
