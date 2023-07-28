@@ -1,8 +1,25 @@
 "use strict";
 function isPalindrome(x) {
-    return true;
+    return x === reverseNumber(x);
+    function reverseNumber(number) {
+        let numberCopy = number;
+        let reversedNumber = 0;
+        do {
+            reversedNumber = reversedNumber * 10 + (numberCopy % 10);
+            numberCopy = Math.floor(numberCopy / 10);
+        } while (Math.floor(numberCopy) > 0);
+        return reversedNumber;
+    }
 }
 // testing
+function testIsPalindrome(example) {
+    if (isPalindrome(example.number) === example.isPalindrome) {
+        console.log("passed!");
+    }
+    else {
+        console.log("failed!");
+    }
+}
 class example {
     constructor(_number, _isPalindrome) {
         this._number = _number;
@@ -17,3 +34,9 @@ class example {
         return this._isPalindrome;
     }
 }
+let example1 = new example(121, true);
+testIsPalindrome(example1);
+let example2 = new example(-121, false);
+testIsPalindrome(example2);
+let example3 = new example(10, false);
+testIsPalindrome(example3);
