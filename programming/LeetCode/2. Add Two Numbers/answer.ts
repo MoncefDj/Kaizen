@@ -113,9 +113,6 @@ function logList(list: ListNode): void {
 }
 
 function testAddTwoNumbers(example: example): void {
-  logList(addTwoNumbers(example.l1, example.l2)!);
-  logList(example.l1PlusL2);
-
   if (areEqualLists(example.l1PlusL2, addTwoNumbers(example.l1, example.l2)!)) {
     console.log("passed!");
   } else {
