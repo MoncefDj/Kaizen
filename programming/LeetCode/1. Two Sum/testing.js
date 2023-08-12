@@ -1,17 +1,9 @@
 "use strict";
-function twoSum(nums, target) {
-    for (let i = 0; i < nums.length - 1; i++) {
-        for (let j = i + 1; j < nums.length; j++) {
-            if (sumEqualsTarget(nums[i], nums[j], target)) {
-                return [i, j];
-            }
-        }
-    }
-    function sumEqualsTarget(num1, num2, target) {
-        return num1 + num2 === target;
-    }
-    return [];
-}
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const twoSum_1 = __importDefault(require("./twoSum"));
 function arrayComparison(arr1, arr2) {
     if (arr1.length === arr2.length) {
         return (arr1.filter((element) => arr2.includes(element)).length ===
@@ -21,9 +13,8 @@ function arrayComparison(arr1, arr2) {
         return false;
     }
 }
-// testing
 function testTwoSum(example) {
-    if (arrayComparison(twoSum(example.nums, example.target), example.expectedValue)) {
+    if (arrayComparison((0, twoSum_1.default)(example.nums, example.target), example.expectedValue)) {
         console.log("passed!");
     }
     else {

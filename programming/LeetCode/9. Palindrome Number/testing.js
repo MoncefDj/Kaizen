@@ -1,22 +1,11 @@
 "use strict";
-function isPalindrome(x) {
-    return x === reversePositiveNumber(x);
-    function reversePositiveNumber(number) {
-        if (number < 0) {
-            return NaN;
-        }
-        let numberCopy = number;
-        let reversedNumber = 0;
-        do {
-            reversedNumber = reversedNumber * 10 + (numberCopy % 10);
-            numberCopy = Math.floor(numberCopy / 10);
-        } while (Math.floor(numberCopy) > 0);
-        return reversedNumber;
-    }
-}
-// testing
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const isPalindrome_1 = __importDefault(require("./isPalindrome"));
 function testIsPalindrome(example) {
-    if (isPalindrome(example.number) === example.isPalindrome) {
+    if ((0, isPalindrome_1.default)(example.number) === example.isPalindrome) {
         console.log("passed!");
     }
     else {
