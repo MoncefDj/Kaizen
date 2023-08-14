@@ -21,6 +21,33 @@
   - [a·tom·ic](#atomic)
   - [hab·it](#habit)
   - [Table of contents](#table-of-contents)
+  - [The Fundamentals (Why Tiny Changes Make a Big Difference)](#the-fundamentals-why-tiny-changes-make-a-big-difference)
+    - [1 The Surprising Power of Atomic Habits](#1-the-surprising-power-of-atomic-habits)
+    - [2 How Your Habits Shape Your Identity (and Vice Versa)](#2-how-your-habits-shape-your-identity-and-vice-versa)
+    - [3 How to Build Better Habits in 4 Simple Steps](#3-how-to-build-better-habits-in-4-simple-steps)
+  - [The 1st Law (Make It Obvious)](#the-1st-law-make-it-obvious)
+    - [4 The Man Who Didn’t Look Right](#4-the-man-who-didnt-look-right)
+    - [5 The Best Way to Start a New Habit](#5-the-best-way-to-start-a-new-habit)
+    - [6 Motivation Is Overrated; Environment Often Matters More](#6-motivation-is-overrated-environment-often-matters-more)
+    - [7 The Secret to Self-Control](#7-the-secret-to-self-control)
+  - [The 2nd Law (Make It Attractive)](#the-2nd-law-make-it-attractive)
+    - [8 How to Make a Habit Irresistible](#8-how-to-make-a-habit-irresistible)
+    - [9 The Role of Family and Friends in Shaping Your Habits](#9-the-role-of-family-and-friends-in-shaping-your-habits)
+    - [10 How to Find and Fix the Causes of Your Bad Habits](#10-how-to-find-and-fix-the-causes-of-your-bad-habits)
+  - [The 3rd Law (Make It Easy)](#the-3rd-law-make-it-easy)
+    - [11 Walk Slowly, but Never Backward](#11-walk-slowly-but-never-backward)
+    - [12 The Law of Least Effort](#12-the-law-of-least-effort)
+    - [13 How to Stop Procrastinating by Using the Two-Minute Rule](#13-how-to-stop-procrastinating-by-using-the-two-minute-rule)
+    - [14 How to Make Good Habits Inevitable and Bad Habits Impossible](#14-how-to-make-good-habits-inevitable-and-bad-habits-impossible)
+  - [The 4th Law (Make It Satisfying)](#the-4th-law-make-it-satisfying)
+    - [15 The Cardinal Rule of Behavior Change](#15-the-cardinal-rule-of-behavior-change)
+    - [16 How to Stick with Good Habits Every Day](#16-how-to-stick-with-good-habits-every-day)
+    - [17 How an Accountability Partner Can Change Everything](#17-how-an-accountability-partner-can-change-everything)
+  - [Advanced Tactics (How to Go from Being Merely Good to Being Truly Great)](#advanced-tactics-how-to-go-from-being-merely-good-to-being-truly-great)
+    - [18 The Truth About Talent (When Genes Matter and When They Don’t)](#18-the-truth-about-talent-when-genes-matter-and-when-they-dont)
+    - [19 The Goldilocks Rule: How to Stay Motivated in Life and Work](#19-the-goldilocks-rule-how-to-stay-motivated-in-life-and-work)
+    - [20 The Downside of Creating Good Habits](#20-the-downside-of-creating-good-habits)
+  - [Cheat Sheets](#cheat-sheets)
 
 ## The Fundamentals (Why Tiny Changes Make a Big Difference)
 
@@ -321,6 +348,6 @@
 
 ## Cheat Sheets
 
-### ![HOW TO CREATE A GOOD HABIT](<HOW TO CREATE A GOOD HABIT.png>)
+![HOW TO CREATE A GOOD HABIT](<HOW TO CREATE A GOOD HABIT.png>)
 
-### ![HOW TO BREAK A BAD HABIT](<HOW TO BREAK A BAD HABIT.png>)
+![HOW TO BREAK A BAD HABIT](<HOW TO BREAK A BAD HABIT.png>)
