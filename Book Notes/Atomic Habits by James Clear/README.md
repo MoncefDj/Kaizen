@@ -22,36 +22,36 @@
   - [hab·it](#habit)
   - [Table of contents](#table-of-contents)
   - [The Fundamentals (Why Tiny Changes Make a Big Difference)](#the-fundamentals-why-tiny-changes-make-a-big-difference)
-    - [1 The Surprising Power of Atomic Habits](#1-the-surprising-power-of-atomic-habits)
-    - [2 How Your Habits Shape Your Identity (and Vice Versa)](#2-how-your-habits-shape-your-identity-and-vice-versa)
-    - [3 How to Build Better Habits in 4 Simple Steps](#3-how-to-build-better-habits-in-4-simple-steps)
+    - [1| The Surprising Power of Atomic Habits](#1-the-surprising-power-of-atomic-habits)
+    - [2| How Your Habits Shape Your Identity (and Vice Versa)](#2-how-your-habits-shape-your-identity-and-vice-versa)
+    - [3| How to Build Better Habits in 4 Simple Steps](#3-how-to-build-better-habits-in-4-simple-steps)
   - [The 1st Law (Make It Obvious)](#the-1st-law-make-it-obvious)
-    - [4 The Man Who Didn’t Look Right](#4-the-man-who-didnt-look-right)
-    - [5 The Best Way to Start a New Habit](#5-the-best-way-to-start-a-new-habit)
-    - [6 Motivation Is Overrated; Environment Often Matters More](#6-motivation-is-overrated-environment-often-matters-more)
-    - [7 The Secret to Self-Control](#7-the-secret-to-self-control)
+    - [4| The Man Who Didn’t Look Right](#4-the-man-who-didnt-look-right)
+    - [5| The Best Way to Start a New Habit](#5-the-best-way-to-start-a-new-habit)
+    - [6| Motivation Is Overrated; Environment Often Matters More](#6-motivation-is-overrated-environment-often-matters-more)
+    - [7| The Secret to Self-Control](#7-the-secret-to-self-control)
   - [The 2nd Law (Make It Attractive)](#the-2nd-law-make-it-attractive)
-    - [8 How to Make a Habit Irresistible](#8-how-to-make-a-habit-irresistible)
-    - [9 The Role of Family and Friends in Shaping Your Habits](#9-the-role-of-family-and-friends-in-shaping-your-habits)
-    - [10 How to Find and Fix the Causes of Your Bad Habits](#10-how-to-find-and-fix-the-causes-of-your-bad-habits)
+    - [8| How to Make a Habit Irresistible](#8-how-to-make-a-habit-irresistible)
+    - [9| The Role of Family and Friends in Shaping Your Habits](#9-the-role-of-family-and-friends-in-shaping-your-habits)
+    - [10| How to Find and Fix the Causes of Your Bad Habits](#10-how-to-find-and-fix-the-causes-of-your-bad-habits)
   - [The 3rd Law (Make It Easy)](#the-3rd-law-make-it-easy)
-    - [11 Walk Slowly, but Never Backward](#11-walk-slowly-but-never-backward)
-    - [12 The Law of Least Effort](#12-the-law-of-least-effort)
-    - [13 How to Stop Procrastinating by Using the Two-Minute Rule](#13-how-to-stop-procrastinating-by-using-the-two-minute-rule)
-    - [14 How to Make Good Habits Inevitable and Bad Habits Impossible](#14-how-to-make-good-habits-inevitable-and-bad-habits-impossible)
+    - [11| Walk Slowly, but Never Backward](#11-walk-slowly-but-never-backward)
+    - [12| The Law of Least Effort](#12-the-law-of-least-effort)
+    - [13| How to Stop Procrastinating by Using the Two-Minute Rule](#13-how-to-stop-procrastinating-by-using-the-two-minute-rule)
+    - [14| How to Make Good Habits Inevitable and Bad Habits Impossible](#14-how-to-make-good-habits-inevitable-and-bad-habits-impossible)
   - [The 4th Law (Make It Satisfying)](#the-4th-law-make-it-satisfying)
-    - [15 The Cardinal Rule of Behavior Change](#15-the-cardinal-rule-of-behavior-change)
-    - [16 How to Stick with Good Habits Every Day](#16-how-to-stick-with-good-habits-every-day)
-    - [17 How an Accountability Partner Can Change Everything](#17-how-an-accountability-partner-can-change-everything)
+    - [15| The Cardinal Rule of Behavior Change](#15-the-cardinal-rule-of-behavior-change)
+    - [16| How to Stick with Good Habits Every Day](#16-how-to-stick-with-good-habits-every-day)
+    - [17| How an Accountability Partner Can Change Everything](#17-how-an-accountability-partner-can-change-everything)
   - [Advanced Tactics (How to Go from Being Merely Good to Being Truly Great)](#advanced-tactics-how-to-go-from-being-merely-good-to-being-truly-great)
-    - [18 The Truth About Talent (When Genes Matter and When They Don’t)](#18-the-truth-about-talent-when-genes-matter-and-when-they-dont)
-    - [19 The Goldilocks Rule: How to Stay Motivated in Life and Work](#19-the-goldilocks-rule-how-to-stay-motivated-in-life-and-work)
-    - [20 The Downside of Creating Good Habits](#20-the-downside-of-creating-good-habits)
+    - [18| The Truth About Talent (When Genes Matter and When They Don’t)](#18-the-truth-about-talent-when-genes-matter-and-when-they-dont)
+    - [19| The Goldilocks Rule: How to Stay Motivated in Life and Work](#19-the-goldilocks-rule-how-to-stay-motivated-in-life-and-work)
+    - [20| The Downside of Creating Good Habits](#20-the-downside-of-creating-good-habits)
   - [Cheat Sheets](#cheat-sheets)
 
 ## The Fundamentals (Why Tiny Changes Make a Big Difference)
 
-### 1 The Surprising Power of Atomic Habits
+### 1| The Surprising Power of Atomic Habits
 
 - Habits are the compound interest of self-improvement. Getting 1
   percent better every day counts for a lot in the long-run.
@@ -68,7 +68,7 @@
 - You do not rise to the level of your goals. You fall to the level of
   your systems.
 
-### 2 How Your Habits Shape Your Identity (and Vice Versa)
+### 2| How Your Habits Shape Your Identity (and Vice Versa)
 
 - There are three levels of change: outcome change, process change,
   and identity change.
@@ -83,7 +83,7 @@
   better results (although they can do that), but because they can
   change your beliefs about yourself.
 
-### 3 How to Build Better Habits in 4 Simple Steps
+### 3| How to Build Better Habits in 4 Simple Steps
 
 - A habit is a behavior that has been repeated enough times to
   become automatic.
@@ -97,7 +97,7 @@
 
 ## The 1st Law (Make It Obvious)
 
-### 4 The Man Who Didn’t Look Right
+### 4| The Man Who Didn’t Look Right
 
 - With enough practice, your brain will pick up on the cues that
   predict certain outcomes without consciously thinking about it.
@@ -111,7 +111,7 @@
 - The Habits Scorecard is a simple exercise you can use to become
   more aware of your behavior.
 
-### 5 The Best Way to Start a New Habit
+### 5| The Best Way to Start a New Habit
 
 - The 1st Law of Behavior Change is make it obvious.
 - The two most common cues are time and location.
@@ -124,7 +124,7 @@
 - The habit stacking formula is: After [CURRENT HABIT], I will
   [NEW HABIT].
 
-### 6 Motivation Is Overrated; Environment Often Matters More
+### 6| Motivation Is Overrated; Environment Often Matters More
 
 - Small changes in context can lead to large changes in behavior
   over time.
@@ -137,7 +137,7 @@
 - It is easier to build new habits in a new environment because you
   are not fighting against old cues.
 
-### 7 The Secret to Self-Control
+### 7| The Secret to Self-Control
 
 - The inversion of the 1st Law of Behavior Change is make it
   invisible.
@@ -151,7 +151,7 @@
 
 ## The 2nd Law (Make It Attractive)
 
-### 8 How to Make a Habit Irresistible
+### 8| How to Make a Habit Irresistible
 
 - The 2nd Law of Behavior Change is make it attractive.
 - The more attractive an opportunity is, the more likely it is to
@@ -165,7 +165,7 @@
   attractive. The strategy is to pair an action you want to do with an
   action you need to do.
 
-### 9 The Role of Family and Friends in Shaping Your Habits
+### 9| The Role of Family and Friends in Shaping Your Habits
 
 - The culture we live in determines which behaviors are attractive
   to us.
@@ -185,7 +185,7 @@
 - If a behavior can get us approval, respect, and praise, we find it
   attractive.
 
-### 10 How to Find and Fix the Causes of Your Bad Habits
+### 10| How to Find and Fix the Causes of Your Bad Habits
 
 - The inversion of the 2nd Law of Behavior Change is make it
   unattractive.
@@ -203,7 +203,7 @@
 
 ## The 3rd Law (Make It Easy)
 
-### 11 Walk Slowly, but Never Backward
+### 11| Walk Slowly, but Never Backward
 
 - The 3rd Law of Behavior Change is make it easy.
 - The most effective form of learning is practice, not planning.
@@ -213,7 +213,7 @@
 - The amount of time you have been performing a habit is not as
   important as the number of times you have performed it.
 
-### 12 The Law of Least Effort
+### 12| The Law of Least Effort
 
 - Human behavior follows the Law of Least Effort. We will naturally
   gravitate toward the option that requires the least amount of
@@ -226,7 +226,7 @@
   is high, habits are difficult.
 - Prime your environment to make future actions easier.
 
-### 13 How to Stop Procrastinating by Using the Two-Minute Rule
+### 13| How to Stop Procrastinating by Using the Two-Minute Rule
 
 - Habits can be completed in a few seconds but continue to impact
   your behavior for minutes or hours afterward.
@@ -241,7 +241,7 @@
 - Standardize before you optimize. You can’t improve a habit that
   doesn’t exist.
 
-### 14 How to Make Good Habits Inevitable and Bad Habits Impossible
+### 14| How to Make Good Habits Inevitable and Bad Habits Impossible
 
 - The inversion of the 3rd Law of Behavior Change is make it
   difficult.
@@ -257,7 +257,7 @@
 
 ## The 4th Law (Make It Satisfying)
 
-### 15 The Cardinal Rule of Behavior Change
+### 15| The Cardinal Rule of Behavior Change
 
 - The 4th Law of Behavior Change is make it satisfying.
 - We are more likely to repeat a behavior when the experience is
@@ -274,7 +274,7 @@
   —make it satisfying—increases the odds that a behavior will be
   repeated next time.
 
-### 16 How to Stick with Good Habits Every Day
+### 16| How to Stick with Good Habits Every Day
 
 - One of the most satisfying feelings is the feeling of making
   progress.
@@ -289,7 +289,7 @@
 - Just because you can measure something doesn’t mean it’s the
   most important thing.
 
-### 17 How an Accountability Partner Can Change Everything
+### 17| How an Accountability Partner Can Change Everything
 
 - The inversion of the 4th Law of Behavior Change is make it
   unsatisfying.
@@ -307,7 +307,7 @@
 
 ## Advanced Tactics (How to Go from Being Merely Good to Being Truly Great)
 
-### 18 The Truth About Talent (When Genes Matter and When They Don’t)
+### 18| The Truth About Talent (When Genes Matter and When They Don’t)
 
 - The secret to maximizing your odds of success is to choose the
   right field of competition.
@@ -323,7 +323,7 @@
 - Genes do not eliminate the need for hard work. They clarify it.
   They tell us what to work hard on.
 
-### 19 The Goldilocks Rule: How to Stay Motivated in Life and Work
+### 19| The Goldilocks Rule: How to Stay Motivated in Life and Work
 
 - The Goldilocks Rule states that humans experience peak
   motivation when working on tasks that are right on the edge of
@@ -336,7 +336,7 @@
 - Professionals stick to the schedule; amateurs let life get in the
   way.
 
-### 20 The Downside of Creating Good Habits
+### 20| The Downside of Creating Good Habits
 
 - The upside of habits is that we can do things without thinking.
   The downside is that we stop paying attention to little errors.
