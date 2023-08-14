@@ -13,6 +13,7 @@
   - [Measure](#measure)
   - [Metric](#metric)
   - [KPI (key performance indicator)](#kpi-key-performance-indicator)
+  - [Infographic](#infographic)
 
 ## Analysis vs Analytics
 
@@ -53,3 +54,9 @@ metric = measure + business meaning.
 ## KPI (key performance indicator)
 
 KPI = metric + business objective.
+
+## Infographic
+
+![DataScience_Diagram](DataScience_Diagram.png)
+
+![365_DataScience](365_DataScience.png.png)
