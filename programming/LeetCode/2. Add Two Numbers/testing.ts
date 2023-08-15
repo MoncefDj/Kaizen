@@ -63,6 +63,9 @@ function testAddTwoNumbers(example: example): void {
 }
 
 function testRecursionAddTwoNumbers(example: example): void {
+  logList(recursionAddTwoNumbers(example.l1, example.l2)!);
+  logList(example.l1PlusL2)
+
   if (
     areEqualLists(
       example.l1PlusL2,
