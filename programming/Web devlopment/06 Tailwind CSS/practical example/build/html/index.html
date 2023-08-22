@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>practical example</title>
+    <meta name="description" content="Tailwind CSS practical example" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="../css/styles.css" />
+  </head>
+  <body
+    class="flex h-screen justify-center bg-gradient-to-t from-violet-500 to-violet-50"
+  >
+    <main
+      class="flex min-w-[400px] max-w-6xl flex-col items-center space-y-8 p-4"
+    >
+      <h1
+        class="text-center text-3xl font-semibold text-blue-500 hover:cursor-pointer hover:text-blue-800 sm:text-4xl md:text-5xl lg:text-6xl"
+      >
+        Hello World!
+      </h1>
+      <div
+        class="flex w-full justify-evenly gap-4 rounded-xl border border-red-500 bg-red-50 p-4 py-4"
+        id="cool-container"
+      >
+        <div
+          class="h-16 w-16 rounded-full bg-red-500 hover:cursor-pointer hover:bg-violet-500 max-sm:hidden"
+        ></div>
+        <div
+          class="h-16 w-16 rounded-full bg-red-500 hover:cursor-pointer hover:bg-violet-500 max-sm:hidden"
+        ></div>
+        <div
+          class="h-16 w-16 rounded-full bg-red-500 hover:cursor-pointer hover:bg-violet-500 max-md:hidden max-sm:hidden"
+        ></div>
+        <div
+          class="h-16 w-16 rounded-full bg-red-500 hover:cursor-pointer hover:bg-violet-500 max-md:hidden max-sm:hidden"
+        ></div>
+        <div
+          class="h-16 w-16 rounded-full bg-red-500 hover:cursor-pointer hover:bg-violet-500"
+        ></div>
+        <div
+          class="h-16 w-16 rounded-full bg-red-500 hover:cursor-pointer hover:bg-violet-500"
+        ></div>
+        <div
+          class="h-16 w-16 rounded-full bg-red-500 hover:cursor-pointer hover:bg-violet-500"
+        ></div>
+      </div>
+
+      <ul class="w-full">
+        <li class="w-full bg-green-700 px-4 py-2 text-green-50">Item</li>
+        <li
+          class="w-full px-4 py-2 text-green-50 odd:bg-green-500 even:bg-green-300 even:text-green-900"
+        >
+          Item
+        </li>
+        <li
+          class="w-full px-4 py-2 text-green-50 odd:bg-green-500 even:bg-green-300 even:text-green-900"
+        >
+          Item
+        </li>
+        <li
+          class="w-full px-4 py-2 text-green-50 odd:bg-green-500 even:bg-green-300 even:text-green-900"
+        >
+          Item
+        </li>
+        <li
+          class="w-full px-4 py-2 text-green-50 odd:bg-green-500 even:bg-green-300 even:text-green-900"
+        >
+          Item
+        </li>
+      </ul>
+
+      <div class="card">
+        <h1 class="dark:text-blue-50 text-lg font-semibold text-blue-950 transition-colors duration-150 ease-in-out">Heading</h1>
+        <p class="text-blue-700 dark:text-blue-200 transition-colors duration-150 ease-in-out">
+          small paragraph that is supposed to fill the gap
+        </p>
+        <button
+          id="toggleDarkButton"
+        >
+          Toggle Dark Mod
+        </button>
+      </div>
+    </main>
+
+    <script src="../js/script.js" async defer></script>
+  </body>
+</html>
