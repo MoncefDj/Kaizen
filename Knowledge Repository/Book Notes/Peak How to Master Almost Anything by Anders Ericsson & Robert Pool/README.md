@@ -22,3 +22,4 @@ Why are some people so amazingly good at what they do?
 ## 1| The Power of Purposeful Practice
 
 - In an experiment aimed at increasing the number of digits that a person can remember at once, Eric and Steve discovered a method that yielded surprising results. According to Eric, the method involved starting with a random five-digit string. If Steve guessed it correctly (which he always did), they would proceed to a six-digit string. If Steve continued to guess correctly, they would increase the length of the string by one digit each time. However, if Steve guessed incorrectly, Eric would decrease the length of the string by two digits and they would start again.
+- purposeful practice means pushing yourself beyond what feels comfortable, but doing it with focus. It means setting clear goals, making a plan to reach those goals, and keeping track of how you're doing. It's also important to find ways to stay motivated along the way.
