@@ -8,6 +8,8 @@ Why are some people so amazingly good at what they do?
   - [Table of contents](#table-of-contents)
   - [Introduction: The Gift](#introduction-the-gift)
   - [1| The Power of Purposeful Practice](#1-the-power-of-purposeful-practice)
+  - [2| Harnessing Adaptability](#2-harnessing-adaptability)
+  - [3| Mental Representations](#3-mental-representations)
 
 ## Introduction: The Gift
 
@@ -23,3 +25,11 @@ Why are some people so amazingly good at what they do?
 
 - In an experiment aimed at increasing the number of digits that a person can remember at once, Eric and Steve discovered a method that yielded surprising results. According to Eric, the method involved starting with a random five-digit string. If Steve guessed it correctly (which he always did), they would proceed to a six-digit string. If Steve continued to guess correctly, they would increase the length of the string by one digit each time. However, if Steve guessed incorrectly, Eric would decrease the length of the string by two digits and they would start again.
 - purposeful practice means pushing yourself beyond what feels comfortable, but doing it with focus. It means setting clear goals, making a plan to reach those goals, and keeping track of how you're doing. It's also important to find ways to stay motivated along the way.
+
+## 2| Harnessing Adaptability
+
+- The brain has the ability to develop and adapt specific areas that are relevant to the challenges it faces.
+
+## 3| Mental Representations
+
+Mental representation refers to our understanding or knowledge about something. It is a distinguishing factor between experts and novices. Experts possess a clearer, more sophisticated, precise, and complex mental representation compared to novices.
