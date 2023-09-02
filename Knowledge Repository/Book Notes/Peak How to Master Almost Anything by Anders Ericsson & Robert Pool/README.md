@@ -32,4 +32,4 @@ Why are some people so amazingly good at what they do?
 
 ## 3| Mental Representations
 
-Mental representation refers to our understanding or knowledge about something. It is a distinguishing factor between experts and novices. Experts possess a clearer, more sophisticated, precise, and complex mental representation compared to novices.
+- Mental representation refers to our understanding or knowledge about something. It is a distinguishing factor between experts and novices. Experts possess a clearer, more sophisticated, precise, and complex mental representation compared to novices.
