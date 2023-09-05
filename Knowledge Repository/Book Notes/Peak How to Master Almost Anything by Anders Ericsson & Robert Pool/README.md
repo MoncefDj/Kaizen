@@ -10,6 +10,7 @@ Why are some people so amazingly good at what they do?
   - [1| The Power of Purposeful Practice](#1-the-power-of-purposeful-practice)
   - [2| Harnessing Adaptability](#2-harnessing-adaptability)
   - [3| Mental Representations](#3-mental-representations)
+  - [4| The Gold Standard](#4-the-gold-standard)
 
 ## Introduction: The Gift
 
@@ -33,3 +34,18 @@ Why are some people so amazingly good at what they do?
 ## 3| Mental Representations
 
 - Mental representation refers to our understanding or knowledge about something. It is a distinguishing factor between experts and novices. Experts possess a clearer, more sophisticated, precise, and complex mental representation compared to novices.
+
+## 4| The Gold Standard
+
+- Deliberate practice is characterized by the following traits:
+
+  1. It focuses on skills that others have already mastered and for which effective training techniques exist. A knowledgeable teacher or coach oversees the practice.
+  1. It pushes individuals outside their comfort zones, requiring them to attempt tasks just beyond their current abilities. This demands maximum effort, even if it's not enjoyable.
+  1. It involves specific, well-defined goals aimed at improving targeted areas of performance. A plan is created to make small changes that lead to overall improvement.
+  1. It requires full attention and conscious effort. Merely following instructions is not enough; individuals must concentrate on their practice goals and make adjustments as needed.
+  1. It incorporates feedback and adjusts efforts based on that feedback. Initially, feedback comes from the teacher or coach, but eventually, individuals must learn to self-monitor and make corrections.
+  1. It relies on effective mental representations. As performance improves, mental representations become more detailed, allowing for better monitoring and correction of mistakes.
+  1. It involves building or refining existing skills by focusing on specific aspects and gradually improving them. This step-by-step approach leads to expert performance.
+  1. It's important for beginners to receive proper fundamental skills to avoid the need for relearning at more advanced levels.
+
+  In summary, deliberate practice is a focused, challenging, and goal-oriented approach to skill development that relies on feedback, mental representations, and step-by-step improvement.
