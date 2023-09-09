@@ -11,14 +11,17 @@ Why are some people so amazingly good at what they do?
   - [2| Harnessing Adaptability](#2-harnessing-adaptability)
   - [3| Mental Representations](#3-mental-representations)
   - [4| The Gold Standard](#4-the-gold-standard)
+  - [5| Principles of Deliberate Practice on the Job](#5-principles-of-deliberate-practice-on-the-job)
 
 ## Introduction: The Gift
 
 - Gifted individuals, who are exceptionally skilled or talented in specific areas, are not inherently born with those abilities or capabilities.
 - There are several crucial factors that contribute to a person's talent in a particular field:
+
   1. Engaging in practice at a young age, typically before the age of six.
-  1. Growing up in an environment that fosters unconscious practice.
-  1. Engaging in deliberate practice for a significant period of time, using the right methods.
+  2. Growing up in an environment that fosters unconscious practice.
+  3. Engaging in deliberate practice for a significant period of time, using the right methods.
+
 - While genetics can be advantageous, they do not have a significant impact when compared to the factors mentioned above.
 - Merely working hard is not enough to become a talented individual. It is essential to work diligently and employ deliberate practice as the most effective approach to achieve expertise.
 
@@ -49,3 +52,15 @@ Why are some people so amazingly good at what they do?
   1. It's important for beginners to receive proper fundamental skills to avoid the need for relearning at more advanced levels.
 
   In summary, deliberate practice is a focused, challenging, and goal-oriented approach to skill development that relies on feedback, mental representations, and step-by-step improvement.
+
+## 5| Principles of Deliberate Practice on the Job
+
+- The first step to enhancing performance in an organization is realizing that improvement is possible only if participants abandon business-as-usual practice. Doing so requires recognizing and rejecting three prevailing myths:
+
+  1. The belief that one’s abilities are limited by one’s genetically prescribed characteristics.
+  1. If you do something for long enough, you’re bound to get better at it.
+  1. All it takes to improve is effort. If you just try hard enough, you’ll get better.
+
+- The deliberate-practice mindset offers the following view: anyone can improve, but it requires the right approach. If you are not improving, it’s not because you lack innate talent; it’s because you’re not practicing the right way. Once you understand this, improvement becomes a matter of figuring out what the “right way” is.
+
+- When you look at how people are trained in the professional and business worlds, you find a tendency to focus on knowledge at the expense of skills. The main reasons are tradition and convenience: it is much easier to present knowledge to a large group of people than it is to set up conditions under which individuals can develop skills through practice.
