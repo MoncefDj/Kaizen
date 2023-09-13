@@ -12,6 +12,7 @@ Why are some people so amazingly good at what they do?
   - [3| Mental Representations](#3-mental-representations)
   - [4| The Gold Standard](#4-the-gold-standard)
   - [5| Principles of Deliberate Practice on the Job](#5-principles-of-deliberate-practice-on-the-job)
+  - [6| Principles of Deliberate Practice in Everyday Life](#6-principles-of-deliberate-practice-in-everyday-life)
 
 ## Introduction: The Gift
 
@@ -64,3 +65,9 @@ Why are some people so amazingly good at what they do?
 - The deliberate-practice mindset offers the following view: anyone can improve, but it requires the right approach. If you are not improving, it’s not because you lack innate talent; it’s because you’re not practicing the right way. Once you understand this, improvement becomes a matter of figuring out what the “right way” is.
 
 - When you look at how people are trained in the professional and business worlds, you find a tendency to focus on knowledge at the expense of skills. The main reasons are tradition and convenience: it is much easier to present knowledge to a large group of people than it is to set up conditions under which individuals can develop skills through practice.
+
+## 6| Principles of Deliberate Practice in Everyday Life
+
+- First, find a good teacher. A good teacher is someone who can enhance your understanding of the subject you are learning by improving your mental representation of it.
+
+- Practicing with 100% focus for a shorter period is more effective than practicing for a longer period with only 70% focus.
