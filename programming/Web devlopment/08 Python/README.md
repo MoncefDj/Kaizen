@@ -227,5 +227,3 @@ import mymodule
 
 mymodule.greeting("John")
 ```
-
-This covers the basic Python syntax and structures. Let me know if you would like me to expand on any section!
