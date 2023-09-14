@@ -69,5 +69,10 @@ Why are some people so amazingly good at what they do?
 ## 6| Principles of Deliberate Practice in Everyday Life
 
 - First, find a good teacher. A good teacher is someone who can enhance your understanding of the subject you are learning by improving your mental representation of it.
-
 - Practicing with 100% focus for a shorter period is more effective than practicing for a longer period with only 70% focus.
+- 3Fs: Focus, Feedback, Fix It.
+- Vary your exercises and challenge yourself in different ways.
+- If you're having trouble identifying your weaknesses, try making things a little more challenging.
+- Set a schedule for your practice time. Allocate a specific amount of time each day for practice and try to avoid distractions or temptations.
+- Surround yourself with a community that values improvement and shares the same goals.
+- Continuously track your progress.
