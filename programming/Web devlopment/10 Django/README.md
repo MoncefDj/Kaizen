@@ -78,3 +78,25 @@ urlpatterns = [
     path("app-name/", include("app-name.urls")),
 ]
 ```
+
+### Using templates
+
+1. in the app package create a new folder and name it `templates`
+2. inside the templates folder create an html file, for example `hello.html` and put some html code in it
+
+```HTML
+{%if name%}
+<h1>Hello, {{name}}!</h1>
+{%else%}
+<h1>Hello, World!</h1>
+{%endif%}
+```
+
+3. in the `views.py` use the render function to use the template that we created before
+
+```python
+from django.shortcuts import render
+
+def hello(request):
+    return render(request, "hello.html", {"name": "Chad"})
+```
