@@ -13,6 +13,9 @@ Why are some people so amazingly good at what they do?
   - [4| The Gold Standard](#4-the-gold-standard)
   - [5| Principles of Deliberate Practice on the Job](#5-principles-of-deliberate-practice-on-the-job)
   - [6| Principles of Deliberate Practice in Everyday Life](#6-principles-of-deliberate-practice-in-everyday-life)
+  - [7| The Road to Extraordinary](#7-the-road-to-extraordinary)
+  - [8| But What About Natural Talent?](#8-but-what-about-natural-talent)
+  - [9| Where Do We Go from Here?](#9-where-do-we-go-from-here)
 
 ## Introduction: The Gift
 
@@ -76,3 +79,17 @@ Why are some people so amazingly good at what they do?
 - Set a schedule for your practice time. Allocate a specific amount of time each day for practice and try to avoid distractions or temptations.
 - Surround yourself with a community that values improvement and shares the same goals.
 - Continuously track your progress.
+
+## 7| The Road to Extraordinary
+
+- Spark your child's interest.
+- Encourage commitment through support and motivation.
+- Developing extraordinary skills becomes more challenging and limited as you grow older, compared to starting at a young age.
+
+## 8| But What About Natural Talent?
+
+- Continuous and proper practice is unbeatable.
+
+## 9| Where Do We Go from Here?
+
+- To gain a general understanding of what it takes to improve, it is beneficial to focus on and enhance one specific area.
