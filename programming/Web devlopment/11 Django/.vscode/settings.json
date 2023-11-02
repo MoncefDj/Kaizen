@@ -1,10 +1,15 @@
 {
   "cSpell.words": [
     "contenttypes",
+    "createsuperuser",
+    "elif",
+    "endfor",
+    "makemigrations",
     "pipenv",
     "runserver",
     "startapp",
     "startproject",
+    "startprojrct",
     "staticfiles",
     "urlpatterns",
     "venv"

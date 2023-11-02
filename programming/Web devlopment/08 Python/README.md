@@ -2,6 +2,23 @@
 
 Python is a high-level, versatile, and easy-to-read programming language known for its simplicity and readability. It emphasizes code readability through its use of indentation and has a large standard library that provides ready-to-use modules and functions for various tasks. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming, making it suitable for a wide range of applications, from web development and scientific computing to artificial intelligence and data analysis.
 
+- [Python](#python)
+  - [Python Cheat Sheet](#python-cheat-sheet)
+    - [Variables and Data Types](#variables-and-data-types)
+    - [String Methods](#string-methods)
+    - [Numbers and Math](#numbers-and-math)
+    - [User Input](#user-input)
+    - [Control Flow](#control-flow)
+      - [If Statements](#if-statements)
+      - [For Loops](#for-loops)
+      - [While Loops](#while-loops)
+    - [Lists](#lists)
+    - [Dictionaries](#dictionaries)
+    - [Functions](#functions)
+    - [Classes and OOP](#classes-and-oop)
+    - [Exceptions](#exceptions)
+    - [Modules](#modules)
+
 ## Python Cheat Sheet
 
 ### Variables and Data Types
