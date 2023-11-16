@@ -37,9 +37,51 @@ The ability to perform deep work is becoming increasingly rare at exactly the sa
   - Rhythmic: take 3-4 hours every day to perform deep work on your project.
   - Journalistic: alternate your day between deep and shallow work as it fits your blocks of time (not recommended to try out first). Commit to scheduling deep work blocks into your calendar and sticking to them (time blocking). Scheduling a specific time of the day in advance takes away the need to use willpower.
 
+- Commit to scheduling deep work blocks into your calendar and sticking to them (time blocking). Scheduling a specific time of the day in advance takes away the need to use willpower.
+
 - To build your Deep Work routine, decide:
 
   - Where you’ll work and for how long
   - How you’ll work once you start to work
   - How you’ll support your work
-  - Execute Like a Business
+
+- Execute Like a Business:
+  - Focus on the Wildly Important: identify a small number of ambitious outcomes to pursue with your deep work hours
+  - Act on the Lead Measures: time spent in a state of deep work dedicated toward your wildly important goal
+  - Keep a Compelling Scoreboard: track the hours spent in deep work that week with a simple tally of tick marks in that week’s row
+  - Create a Cadence of Accountability: use weekly reviews to celebrate good weeks, understand what led to bad weeks, and figure out how to ensure a good score for the days ahead
+- Implement a Shutdown Ritual
+  - At the end of the workday, shut down your consideration of work issues until the next morning.
+
+### Rule |2 Embrace Boredom
+
+- Due to our fast-paced lives, our brains have been rewired and expect and request distraction. As a result, we check our smartphones at any moment of “potential boredom”.
+
+- Don’t take breaks from distraction but instead take breaks from focus:
+
+- Schedule in advance when you’ll use the Internet, and then avoid it altogether outside these times. Do it both at home and work to further improve your concentration training.
+- Practice productive meditation. This a period in which you’re occupied physically but not mentally—walking, jogging, driving, showering—and focus your attention on a single well-defined professional problem
+
+### Rule |3 Quit Social Media
+
+- Social Media fragment our time and reduce our ability to concentrate, making it difficult to improve your ability to work deeply.
+
+- If you service low-impact activities, like Social Media, you’re taking away time you could be spending on higher-impact activities. It’s a zero-sum game.
+
+- Do a test run: without deactivating, stay off consciously from your social media of choice for 30 days. After 30 days, evaluate:
+
+- Was it impossible for you to stay away or were you greatly inconvenienced?
+  Did anyone care?
+- If you want to eliminate the addictive pull of entertainment sites on your time and attention, give your brain a quality alternative.
+
+- The Craftsman Approach to Tool Selection: identify the core factors that determine success and happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substantially outweigh its negative impacts.
+
+### Rule |4 Drain the Shallows
+
+- The typical knowledge workday is easily fragmented, making it hard to introduce large amounts of depth. To take control, schedule every minute of your day on a paper notebook:
+
+- At the beginning of each workday, turn to a new page.
+- On the left, mark every other line with an hour of your workday.
+- Divide the hours into 30 min blocks and assign activities to the blocks (if needed, batch similar tasks into one block).
+- On the right, list out the full set of small tasks you plan to accomplish in that block Use this schedule to guide your workday.
+- Not every block needs to be dedicated to a work task. There might be time blocks for lunch or relaxation breaks.
